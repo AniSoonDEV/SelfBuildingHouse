@@ -2,7 +2,7 @@ name: SelfbuildingHouse
 main: nikipuh\Main
 version: 1.3
 api: [3.0.0]
-author: Nickipuh , AniSoonDev
+author: Nickipuh , AniSoonDEV
 commands:
   sbh:
     default: op
